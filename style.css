@@ -124,7 +124,7 @@ color:rgba(0, 0, 0, 0.696);
 .about-us-image{
     width:45%;
     height: 300px;
-    background: url("../image/about-photo.jpg");
+    background: url("image/about-photo.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
